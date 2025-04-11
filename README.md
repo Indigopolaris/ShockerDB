@@ -43,3 +43,15 @@
 Branches
 -mrwill
 -mrchanman
+
+sys diagram
+
+needs
+- site obj -> container obj -> breaker obj ->
+- switch breaker obj params between kw and amp 
+
+need DB server settings 
+settings needs
+- obj adding (new containers, etc)
+- future support for rs485 communications to server
+
