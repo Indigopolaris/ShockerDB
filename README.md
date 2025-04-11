@@ -1,11 +1,11 @@
-# Requirements 
+# Requirements
 
 1. Take input of power readings for each container in a singular form
 2. Save power readings to database after each entry noting time to database
-3. export from database to excel file using a date and time picker for a range. 
+3. export from database to excel file using a date and time picker for a range.
 
 # Technologies
-* [golang](https://go.dev/) - language 
+* [golang](https://go.dev/) - language
 * [gorm](https://github.com/go-gorm/gorm) - package - DB Access
 * [caddy](https://github.com/caddyserver/caddy) - package - Auto TLS and Cert Renewal
 * [fiber v2](https://github.com/gofiber/fiber) - package - web framework
@@ -39,3 +39,7 @@
 	1. check for sanitized inputs
 	2. check for any memory issues
 	3. check for any unsecured connections in clear text
+
+Branches
+-mrwill
+-mrchanman
