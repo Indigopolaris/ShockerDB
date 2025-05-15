@@ -38,7 +38,7 @@
  6. Install Caddy
  7. Start Caddy
   1. in the command line start caddy
-   `caddy`
+   "caddy"
  8. Configure Caddy
   1. Configure Caddy via the Caddy file to specify endpoints, transfer over http(s)
  9. Init database
