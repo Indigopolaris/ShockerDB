@@ -96,7 +96,7 @@
  - obj adding (new containers, etc)
  - future support for rs485 communications to server
 
-## About wails
+# About wails
 
 using the official Wails React-TS template.
 
