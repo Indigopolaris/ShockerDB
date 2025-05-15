@@ -4,8 +4,8 @@
 
 # Requirements
 
- 1. Take input of power readings for each container in a singular form
- 2. Save power readings to database after each entry noting time to database
+ 1. Take input of power readings for each container in a singular form.
+ 2. Save power readings to database after each entry noting time to database.
  3. export from database to excel file using a date and time picker for a range.
 
 # Technologies
