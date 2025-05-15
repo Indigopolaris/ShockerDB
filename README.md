@@ -27,9 +27,9 @@
 
 # Plan
 
-	1. Create Repo using github
-  1. Use Github
-  2. Make Repo Private
+	1. ~~Create Repo using github~~
+  1. ~~Use Github~~
+  2.~~ Make Repo Private~~
  2. Create web application
   1. Create web application using the web framework fiber - fiber v2 is stable
  3. Create wails app with react (electron)
